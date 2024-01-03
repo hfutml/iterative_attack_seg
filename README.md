@@ -30,11 +30,15 @@ This is the repository for the Iterative-attack on multimodal text generation ta
 
 ## Citation
 ```
-@article{wang2023iterative,
-  title={Iterative Adversarial Attack on Image-guided Story Ending Generation},
+@ARTICLE{10366855,
   author={Wang, Youze and Hu, Wenbo and Hong, Richang},
-  journal={arXiv preprint arXiv:2305.13208},
-  year={2023}
-}
+  journal={IEEE Transactions on Multimedia}, 
+  title={Iterative Adversarial Attack on Image-guided Story Ending Generation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TMM.2023.3345167}}
+
 ```
 
